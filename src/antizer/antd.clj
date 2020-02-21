@@ -78,7 +78,6 @@
                   Select
                   Select.OptGroup
                   Select.Option
-                  Separator
                   Skeleton
                   Slider
                   Spin
